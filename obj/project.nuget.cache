@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7VxM5SR/6tQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mtszp\\Desktop\\Nauka\\TestMerakiAPI\\TestMerakiAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtszp\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
